@@ -1,7 +1,7 @@
 ptj
 =====
 
-PHP to JSON tool
+PHP to JSON utilitiy
 
 ## install
 
